@@ -1,0 +1,25 @@
+{
+  "name": "dots-3",
+  "version": "1.0.0",
+  "description": "Slim down a string with ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vehmloewff/dots-3.git"
+  },
+  "keywords": [
+	"dots",
+	"...",
+	"string",
+	"slim"
+  ],
+  "author": "Vehmloewff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vehmloewff/dots-3/issues"
+  },
+  "homepage": "https://github.com/Vehmloewff/dots-3#readme"
+}

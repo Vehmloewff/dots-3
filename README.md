@@ -22,4 +22,4 @@ dots3('What? Is that a monkey for a pet?', 5);
 
 Hope this package helps you!
 
-Found a bug?  [Open an issue](https://github.com/Vehmloewff/dots-3/issues/new) or Ping me on Discord: Vehmloewff#0714.
+Found a bug?  [Open an issue](https://github.com/Vehmloewff/dots-3/issues/new), or ping me on Discord: Vehmloewff#0714.

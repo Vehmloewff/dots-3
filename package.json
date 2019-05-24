@@ -1,6 +1,6 @@
 {
   "name": "dots-3",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Slim down a string with ...",
   "main": "index.js",
   "scripts": {
